@@ -8,7 +8,7 @@
 
 ## <a name="_cnrdu1ci1ar5"></a>**Day - 4,5,6,7 Binding and Observers**
 1. [ViewBinding](https://medium.com/@abhineshchandra1234/view-binding-in-kotlin-android-bda2b35d3e29) ([Example](https://www.section.io/engineering-education/view-binding-in-android/))
-1. [DataBinding](https://blog.logrocket.com/data-binding-android-tutorial-with-examples/)** ([Example](https://www.section.io/engineering-education/how-to-use-databinding-in-android-using-kotlin/))
+1. [DataBinding](https://blog.logrocket.com/data-binding-android-tutorial-with-examples/) ([Example](https://www.section.io/engineering-education/how-to-use-databinding-in-android-using-kotlin/))
 1. [LiveData](https://www.innominds.com/blog/introduction-to-livedata-in-android) ([Example](https://medium.com/@abuhasanbaskara/android-kotlin-live-data-mutable-live-data-example-b6a11e4d5b48))
 1. [DataBinding vs ViewBinding](https://kingahmedino.hashnode.dev/data-binding-vs-view-binding)
 
