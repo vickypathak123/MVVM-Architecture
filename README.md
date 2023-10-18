@@ -27,7 +27,7 @@
 
 
 ## [**Example of MVVM with Hilt + Coroutines + Flow**](https://www.howtodoandroid.com/android-app-using-mvvm-coroutines-flow-hilt/)
-![Alt text](https://imageupload.io/ib/hYsbusZ5B2ypOIN_1697608580.png)
+![Alt text](https://camo.githubusercontent.com/fae7bffb8c5f15ac8909efd2b1a32715e6baad33939bddf25490ebcee3f2a081/68747470733a2f2f696d61676575706c6f61642e696f2f69622f6859736275735a35423279704f494e5f313639373630383538302e706e67)
 
 # <p align="center"><a name="_w3kedzei6uey"></a>**Key Points**</p>
 <div align="justify">
