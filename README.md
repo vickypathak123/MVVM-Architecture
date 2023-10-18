@@ -27,5 +27,4 @@
 
 
 ## [**Example of MVVM with Hilt + Coroutines + Flow**](https://www.howtodoandroid.com/android-app-using-mvvm-coroutines-flow-hilt/)
-## <a name="_jvxoj459h04m"></a>[**Project Structure of MVVM Project**](https://github.com/vickypathak123/MVVM-Architecture)
-
+![Alt text](https://imageupload.io/ib/hYsbusZ5B2ypOIN_1697608580.png)
